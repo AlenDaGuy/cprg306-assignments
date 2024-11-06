@@ -16,11 +16,9 @@ export default function RootPage() {
       <div></div>
       <Link href={"/week-6"}>Week 6</Link>
       <div></div>
-<<<<<<< HEAD
       <Link href={"/week-7"}>Week 7</Link>
-=======
-      <Link href={"/week-5"}>Week 5</Link>
->>>>>>> b8b2ef793496ac6a8138a8a619a526195a04ab68
+      <div></div>
+      <Link href={"/week-8"}>Week 8</Link>
     </div>
   );
 }
